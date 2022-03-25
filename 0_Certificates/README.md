@@ -1,4 +1,4 @@
-C Programming Certificate
+Certificates
+Sololearn Certificate
 NDG Linux Certificate
-GIT Training Certificate
 First Day On Github
